@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>SOLANA SNIPER BOT</h1>
+    <h1>MAYHEM FARMING BOT</h1>
 </div>
 
 <p align="center">
